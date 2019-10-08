@@ -1,0 +1,15 @@
+//测试项目对应的编号   及其显示名称                 关键字
+             1--        Check IC Type               Check IC Type
+             2--        CheckChannel                CheckChannel
+             3--        Program flash                Program flash
+             4--        Read ID                     Read ID
+             5--        FW Version Test             FW Version Test
+             6--        Reset Test                  Check Reset Pin
+             7--        INT Test                    Check INT Pin
+             8--        Noise Test                  Collect Noise & RAW Data
+             9--        RawData Test                Collect Noise & RAW Data (共用一组关键字)
+             10--       Short Test                  Collect Short Data
+             11--       Open Test                   Collect Open Data
+             12--       NormalIdle Test             Collect Normal Idle Data
+             13--       LPWUGIdle Test              Collect LPWUG Idle Data
+             14--       LPWUGActive Test            Collect LPWUG Active Data
