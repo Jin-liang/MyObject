@@ -224,9 +224,7 @@ namespace TP_TestFile
         /// <returns>The value of the key, if found.  Otherwise, returns 
         /// <paramref name="defaultValue"/></returns>
         /// <exception cref="ArgumentNullException">
-        /// <paramref name="sectionName"/> or <paramref name="keyName"/> are 
-        /// a null reference  (Nothing in VB)
-        /// </exception>
+       
         public double GetDouble(string sectionName,
                                 string keyName,
                                 double defaultValue)
